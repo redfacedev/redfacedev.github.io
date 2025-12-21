@@ -232,3 +232,63 @@ img {
         max-width: 100%;
     }
 }
+
+.portfolio-flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    margin-top: 1rem;
+}
+
+.project-frame {
+    background-color: #161616;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: 552px;
+    height: 167px;
+    padding: 1.0rem .75rem;
+    box-sizing: border-box;
+}
+
+.project-title {
+    font-size: 1.75rem;
+    margin-bottom: 0.1rem;
+}
+
+.project-author {
+    font-size: .8rem;
+    margin-bottom: 0.01rem;
+    margin-top: 0;
+}
+
+.project-author::before {
+    content: "by ";
+    color: #bbbbbb;
+}
+
+.project-desc {
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1.2em;
+}
+
+.button {
+    background-color: #66fa5b;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.button-row {
+    margin-top: 1rem;
+}
+
+.no-pad {
+    padding: 0;
+}

@@ -1,1 +1,1 @@
-Programmer Resources.
+Official home site of SpikeTrapBoom Studios, run by Brendan LeVoy
