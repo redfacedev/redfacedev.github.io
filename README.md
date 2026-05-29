@@ -1,1 +1,1 @@
-Official home site of SpikeTrapBoom Studios, run by Brendan LeVoy
+Official home site of Caticure, run by Brendan LeVoy
